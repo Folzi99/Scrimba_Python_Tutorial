@@ -15,6 +15,7 @@ print(msg.split(' '), type(msg.split(' ')))
 
 csv = 'Eric,John,Michael,Terry,Graham'
 friends_list = ['Eric','John','Michael','Terry','Graham']
+
 #  results will be the same
 print(csv.split(',')) #telling string to split on ','
 
